@@ -69,6 +69,7 @@ I'm a cybersecurity professional focused on **offensive security, penetration te
 
 | Project | What it does | Focus |
 |---|---|---|
+| [**PhishTank — AI-Enhanced Phishing Detection**](https://khaled0xo1.github.io/phishtank-landing/) | Graduation project that analyzes email body, headers, URLs, attachments, OCR/PDF/QR evidence, and multilingual content, then fuses the signals into explainable phishing verdicts | AI/ML · Email Security · FastAPI · BERT · Explainability |
 | [**TLS Certificate Validator**](https://github.com/Zeyad-Karim/TLS-Certificate-Validator-Extension) | Chrome extension that inspects TLS certificate and connection-security metadata using the Chrome DevTools Protocol | TLS · PKI · Browser Security · JavaScript |
 | [**Penetration Testing Report**](https://github.com/Zeyad-Karim/DEPI_Capstone_Project_Report) | Full penetration-testing report produced as part of my vulnerability analysis & penetration-testing training | Web Pentesting · OWASP · CVSS · Reporting |
 | [**Security Assessment Report**](https://github.com/Zeyad-Karim/AccuKnox_Problem_Statement) | Security assessment deliverable created for a practical security problem statement | Security Assessment · Analysis · Reporting |
@@ -84,6 +85,8 @@ Co-designed a CLI/MCP-based malware-analysis workflow combining **VirusTotal, Gh
 
 ### PhishTank — AI-Enhanced Phishing Detection
 Built a modular **FastAPI** phishing-detection pipeline combining a fine-tuned **BERT** model, URL/header analysis, OCR/QR/PDF extraction, NLLB translation, and LIME explainability into analyst-facing verdicts.
+
+[![View Project](https://img.shields.io/badge/View%20PhishTank-Project%20Landing%20Page-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://khaled0xo1.github.io/phishtank-landing/)
 
 ---
 
